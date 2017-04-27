@@ -2749,6 +2749,7 @@ LDAx(DDCB_DIO6_WRITE)ArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegiste
 			<Property Name="NI.LV.FPGA.CompileConfigString" Type="Str">PXIe-7972R/Clk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSPXIE_7972RFPGA_TARGET_FAMILYKINTEX7TARGET_TYPEFPGA</Property>
 			<Property Name="NI.LV.FPGA.Version" Type="Int">6</Property>
 			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Property Name="niFpga_TopLevelVIID" Type="Path">/C/Users/LOCI/Desktop/Demo for New Structure/New-Structure-4.25/Write Waveform to FPGA Folder/Write Waveform to FPGA.vi</Property>
 			<Property Name="Resource Name" Type="Str">PXI1Slot3</Property>
 			<Property Name="Target Class" Type="Str">PXIe-7972R</Property>
 			<Property Name="Top-Level Timing Source" Type="Str">40 MHz Onboard Clock</Property>
